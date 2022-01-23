@@ -3,3 +3,14 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+.carousel-font{
+    color: gold;
+    font-family: 'Playball', cursive;
+}
+
+.carosul-height{
+    max-height: 600px;
+    
+}
+
