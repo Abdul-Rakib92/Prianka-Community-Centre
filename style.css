@@ -24,4 +24,13 @@ body{
     list-style: none;   
 }
 
+.contact-us{
+    background-image: url(./images/weddingsite2.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.514);
+}
+
 
