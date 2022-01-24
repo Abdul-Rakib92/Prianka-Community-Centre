@@ -14,3 +14,17 @@ body{
     
 }
 
+.tick-icon{
+    color: lightgray;
+    padding-right: 10px;
+    
+}
+
+.list-offer ul{
+    list-style: none;
+    
+}
+
+/* .package-btn{
+    background-color: lemonchiffon;
+} */
