@@ -33,4 +33,10 @@ body{
     background-color: rgba(0, 0, 0, 0.514);
 }
 
+footer{
+    height: 200px;
+    background-color: rgb(2, 2, 34);
+    color: white;
+}
+
 
