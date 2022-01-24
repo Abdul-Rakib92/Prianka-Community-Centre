@@ -1,18 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Fira+Sans:ital@1&family=Lobster&family=Montserrat&family=Playball&family=Poppins:wght@500&family=Roboto:wght@500;700&family=Satisfy&display=swap');
 
+/* common css */
+
 body{
     font-family: 'Roboto', sans-serif;
 }
 
-.carousel-font{
-    color: gold;
-    font-family: 'Playball', cursive;
-}
+/* carosul  */
 
 .carosul-height{
     max-height: 600px;
     
 }
+
+/* package */
 
 .tick-icon{
     color: lightgray;
@@ -24,6 +25,9 @@ body{
     list-style: none;   
 }
 
+
+/* contact us */
+
 .contact-us{
     background-image: url(./images/weddingsite2.jpg);
     background-repeat: no-repeat;
@@ -32,6 +36,8 @@ body{
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.514);
 }
+
+/* footer */
 
 footer{
     height: 200px;
